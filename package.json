@@ -1,0 +1,40 @@
+{
+  "name": "@flaque/use-toggle",
+  "description": "A simple switch hook",
+  "version": "0.0.0",
+  "author": "flaque",
+  "bugs": "https://github.com/flaque/use-toggle/issues",
+  "dependencies": {
+    "tslib": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.5",
+    "@types/slate": "^0.47.1",
+    "@types/slate-react": "^0.22.5",
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "tslint": "latest",
+    "typescript": "latest"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "files": [
+    "/dist"
+  ],
+  "homepage": "https://github.com/flaque/use-toggle",
+  "keywords": [],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flaque/use-toggle.git"
+  },
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "types": "dist/index.d.ts",
+  "peerDependencies": {
+    "react": "^16.10.2"
+  }
+}
