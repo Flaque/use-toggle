@@ -1,17 +1,17 @@
 {
   "name": "@flaque/use-toggle",
   "description": "A simple switch hook",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "flaque",
   "bugs": "https://github.com/flaque/use-toggle/issues",
   "dependencies": {
     "tslib": "latest"
   },
   "devDependencies": {
+    "@types/node": "latest",
     "@types/react": "^16.9.5",
     "@types/slate": "^0.47.1",
     "@types/slate-react": "^0.22.5",
-    "@types/node": "latest",
     "ts-node": "latest",
     "tslint": "latest",
     "typescript": "latest"
