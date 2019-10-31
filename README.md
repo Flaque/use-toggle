@@ -1,5 +1,7 @@
 # use-toggle [![License](https://img.shields.io/npm/l/use-toggle.svg)](https://github.com/flaque/use-toggle/blob/master/package.json)
 
+Like `useState`, but for toggling something on/off.
+
 ## Install
 
 ```
