@@ -1,7 +1,7 @@
 {
   "name": "@flaque/use-toggle",
   "description": "A simple switch hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "flaque",
   "bugs": "https://github.com/flaque/use-toggle/issues",
   "dependencies": {
